@@ -371,8 +371,8 @@ function GetMapInitData(worldSize)
 
 	--local LandSizeXLarge = 62 + (Map.GetCustomOption(11) * 2);
 	--local LandSizeYLarge = 54 + (Map.GetCustomOption(12) * 2);
-	local LandSizeXLarge = 44 + (48);
-	local LandSizeYLarge = 34 + (42);
+	local LandSizeXLarge = 42 + (48);
+	local LandSizeYLarge = 30 + (42);
 
 	local LandSizeXHuge = 70 + (Map.GetCustomOption(11) * 2);
 	local LandSizeYHuge = 62 + (Map.GetCustomOption(12) * 2);
